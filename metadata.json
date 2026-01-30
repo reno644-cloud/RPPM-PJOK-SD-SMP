@@ -1,0 +1,5 @@
+{
+  "name": "Generator RPPM PJOK SD SUNGAISELAN",
+  "description": "Aplikasi generator Rencana Pembelajaran Mendalam (RPPM) khusus untuk mata pelajaran PJOK tingkat SD dan jenjang lainnya, terintegrasi dengan Google Gemini AI untuk menghasilkan dokumen terstruktur.",
+  "requestFramePermissions": []
+}
